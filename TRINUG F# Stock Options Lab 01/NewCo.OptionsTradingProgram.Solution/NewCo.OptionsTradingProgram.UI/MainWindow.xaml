@@ -1,0 +1,36 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:visualizationToolkit="clr-namespace:System.Windows.Controls.DataVisualization;assembly=System.Windows.Controls.DataVisualization.Toolkit" 
+        xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit" 
+        x:Class="NewCo.OptionsTradingProgram.UI.MainWindow"
+        Title="MainWindow" Height="643" Width="525">
+    <Grid Margin="0,0,0,-261">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="77*"/>
+            <RowDefinition Height="17*"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="symbolTextBox" HorizontalAlignment="Left" Height="29" Margin="10,10,0,0" 
+			TextWrapping="Wrap" Text="Enter Symbol" VerticalAlignment="Top" Width="135"/>
+        <Button x:Name="GoButton" Content="Go" HorizontalAlignment="Left" Height="29" 
+			Margin="150,10,0,0" VerticalAlignment="Top" Width="77" Click="GoButton_Click"/>
+        <DataGrid x:Name="StockPriceDataGrid" HorizontalAlignment="Left" Height="167" Margin="10,62,0,0"
+			VerticalAlignment="Top" Width="483"/>
+        <chartingToolkit:Chart x:Name="chart" Margin="10,233,24,112">
+            <chartingToolkit:Chart.Series>
+                <chartingToolkit:LineSeries x:Name="stockPriceLineGraph"
+                                   IsSelectionEnabled="True"
+                                   HorizontalAlignment="Left" Height="298" 
+                                   Foreground="Black" VerticalAlignment="Top" Width="351"/>
+                <chartingToolkit:LineSeries x:Name="stockPriceLineGraph2"
+                                   IsSelectionEnabled="True"
+                                   HorizontalAlignment="Left" Height="298" 
+                                   Foreground="Red" VerticalAlignment="Top" Width="351"/>
+                <chartingToolkit:LineSeries x:Name="stockPriceLineGraph3"
+                                   IsSelectionEnabled="True"
+                                   HorizontalAlignment="Left" Height="298" 
+                                   Foreground="Green" VerticalAlignment="Top" Width="351"/>
+            </chartingToolkit:Chart.Series>
+        </chartingToolkit:Chart>
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data\bin\Debug\NewCo.OptionsTradingProgram.Data.XML
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data\bin\Debug\NewCo.OptionsTradingProgram.Data.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data\bin\Debug\NewCo.OptionsTradingProgram.Data.pdb
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data\bin\Debug\FSharp.Core.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data\bin\Debug\FSharp.Core.xml
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data\obj\Debug\NewCo.OptionsTradingProgram.Data.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data\obj\Debug\NewCo.OptionsTradingProgram.Data.pdb
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data\bin\Debug\NewCo.OptionsTradingProgram.Data.dll.config
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data\bin\Debug\FSharp.Data.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data\bin\Debug\FSharp.Data.pdb
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data\bin\Debug\FSharp.Data.xml
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Data\bin\Debug\Newtonsoft.Json.xml

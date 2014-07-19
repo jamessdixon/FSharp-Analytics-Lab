@@ -1,0 +1,8 @@
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Analytics.Tests.Unit\bin\Debug\NewCo.OptionsTradingProgram.Analytics.Tests.Unit.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Analytics.Tests.Unit\bin\Debug\NewCo.OptionsTradingProgram.Analytics.Tests.Unit.pdb
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Analytics.Tests.Unit\obj\Debug\NewCo.OptionsTradingProgram.Analytics.Tests.Unit.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Analytics.Tests.Unit\obj\Debug\NewCo.OptionsTradingProgram.Analytics.Tests.Unit.pdb
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Analytics.Tests.Unit\obj\Debug\NewCo.OptionsTradingProgram.Analytics.Tests.Unit.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Analytics.Tests.Unit\bin\Debug\NewCo.OptionsTradingProgram.Analytics.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Analytics.Tests.Unit\bin\Debug\NewCo.OptionsTradingProgram.Analytics.pdb
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Analytics.Tests.Unit\bin\Debug\NewCo.OptionsTradingProgram.Analytics.xml

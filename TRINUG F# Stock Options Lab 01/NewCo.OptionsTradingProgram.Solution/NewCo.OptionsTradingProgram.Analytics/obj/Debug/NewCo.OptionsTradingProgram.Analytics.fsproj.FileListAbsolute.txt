@@ -1,0 +1,7 @@
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Analytics\bin\Debug\NewCo.OptionsTradingProgram.Analytics.XML
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Analytics\bin\Debug\NewCo.OptionsTradingProgram.Analytics.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Analytics\bin\Debug\NewCo.OptionsTradingProgram.Analytics.pdb
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Analytics\bin\Debug\FSharp.Core.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Analytics\bin\Debug\FSharp.Core.xml
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Analytics\obj\Debug\NewCo.OptionsTradingProgram.Analytics.dll
+C:\Users\Jamie\Desktop\NewCo.OptionsTradingProgram.Solution\NewCo.OptionsTradingProgram.Analytics\obj\Debug\NewCo.OptionsTradingProgram.Analytics.pdb

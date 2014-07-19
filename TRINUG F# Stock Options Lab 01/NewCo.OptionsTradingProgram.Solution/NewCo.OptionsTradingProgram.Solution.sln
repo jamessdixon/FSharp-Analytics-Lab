@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "NewCo.OptionsTradingProgram.Data", "NewCo.OptionsTradingProgram.Data\NewCo.OptionsTradingProgram.Data.fsproj", "{1B7EAD2D-9104-42A9-BF8A-CF73B9FC63BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewCo.OptionsTradingProgram.UI.Desktop", "NewCo.OptionsTradingProgram.UI\NewCo.OptionsTradingProgram.UI.Desktop.csproj", "{0BF6F6E5-1C40-4200-A815-D51BA8ED5FD4}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "NewCo.OptionsTradingProgram.Analytics", "NewCo.OptionsTradingProgram.Analytics\NewCo.OptionsTradingProgram.Analytics.fsproj", "{C668772D-3EFD-4004-8209-8A1DDE85348E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewCo.OptionsTradingProgram.Data.Tests.Integration", "NewCo.OptionsTradingProgram.Data.Tests.Integration\NewCo.OptionsTradingProgram.Data.Tests.Integration.csproj", "{18D6DF56-B9B2-4113-8209-BE797C6520BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewCo.OptionsTradingProgram.Analytics.Tests.Unit", "NewCo.OptionsTradingProgram.Analytics.Tests.Unit\NewCo.OptionsTradingProgram.Analytics.Tests.Unit.csproj", "{522027DD-C03E-4A46-80D6-CF3146C8532B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B7EAD2D-9104-42A9-BF8A-CF73B9FC63BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7EAD2D-9104-42A9-BF8A-CF73B9FC63BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7EAD2D-9104-42A9-BF8A-CF73B9FC63BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7EAD2D-9104-42A9-BF8A-CF73B9FC63BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF6F6E5-1C40-4200-A815-D51BA8ED5FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF6F6E5-1C40-4200-A815-D51BA8ED5FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF6F6E5-1C40-4200-A815-D51BA8ED5FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF6F6E5-1C40-4200-A815-D51BA8ED5FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C668772D-3EFD-4004-8209-8A1DDE85348E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C668772D-3EFD-4004-8209-8A1DDE85348E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C668772D-3EFD-4004-8209-8A1DDE85348E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C668772D-3EFD-4004-8209-8A1DDE85348E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18D6DF56-B9B2-4113-8209-BE797C6520BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D6DF56-B9B2-4113-8209-BE797C6520BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D6DF56-B9B2-4113-8209-BE797C6520BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D6DF56-B9B2-4113-8209-BE797C6520BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522027DD-C03E-4A46-80D6-CF3146C8532B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522027DD-C03E-4A46-80D6-CF3146C8532B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522027DD-C03E-4A46-80D6-CF3146C8532B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522027DD-C03E-4A46-80D6-CF3146C8532B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

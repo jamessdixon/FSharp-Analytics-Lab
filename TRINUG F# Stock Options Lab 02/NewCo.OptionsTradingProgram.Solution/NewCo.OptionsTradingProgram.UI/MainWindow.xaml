@@ -1,0 +1,41 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:visualizationToolkit="clr-namespace:System.Windows.Controls.DataVisualization;assembly=System.Windows.Controls.DataVisualization.Toolkit" 
+        xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" 
+        x:Class="NewCo.OptionsTradingProgram.UI.MainWindow"
+        Title="MainWindow" Height="1077.328" Width="525">
+    <Grid Margin="0,0,0,-261" RenderTransformOrigin="0.495,0.597">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="600*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="150*"/>
+            <RowDefinition Height="600*"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="symbolTextBox" HorizontalAlignment="Left" Height="29" Margin="10,10,0,0" 
+			TextWrapping="Wrap" Text="Enter Symbol" VerticalAlignment="Top" Width="135"/>
+        <Button x:Name="GoButton" Content="Go" HorizontalAlignment="Left" Height="29" 
+			Margin="150,7,0,0" VerticalAlignment="Top" Width="77" Click="GoButton_Click"/>
+        <DataGrid x:Name="StockPriceDataGrid" HorizontalAlignment="Left" Height="143" Margin="10,62,0,0"
+			VerticalAlignment="Top" Width="483"/>
+        <chartingToolkit:Chart x:Name="chart" Margin="10,229,24,10">
+            <chartingToolkit:LineSeries x:Name="stockPriceLineGraph"
+				IsSelectionEnabled="True"
+				HorizontalAlignment="Left" Height="298" 
+				Foreground="Black" VerticalAlignment="Top" Width="351" d:IsHidden="True"/>
+            <chartingToolkit:LineSeries x:Name="stockPriceLineGraph2"
+				IsSelectionEnabled="True"
+				HorizontalAlignment="Left" Height="272" 
+				Foreground="Red" VerticalAlignment="Top" Width="351" d:IsHidden="True"/>
+            <chartingToolkit:LineSeries x:Name="stockPriceLineGraph3"
+				IsSelectionEnabled="True"
+				HorizontalAlignment="Left" Height="271" 
+				Foreground="Green" VerticalAlignment="Top" Width="349"/>
+        </chartingToolkit:Chart>
+        <DataGrid x:Name="TheGreeksDataGrid" HorizontalAlignment="Left" Height="206" Margin="10,10,0,0"
+			VerticalAlignment="Top" Width="483" Grid.Row="1" Grid.RowSpan="2"/>
+        <DataGrid x:Name="BlackScholesDataGrid" HorizontalAlignment="Left" Height="206" Margin="10,10,0,0"
+        	VerticalAlignment="Top" Width="483" Grid.Row="3"/>
+    </Grid>
+</Window>
